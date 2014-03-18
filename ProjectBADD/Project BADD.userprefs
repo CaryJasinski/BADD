@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BreakBlock.js">
+    <Files>
+      <File FileName="Assets\Scripts\BlockHealth.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BreakBlock.js" Line="69" Column="23" />
+      <File FileName="Assets\Scripts\Explosion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
